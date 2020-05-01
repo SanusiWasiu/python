@@ -1,1 +1,1 @@
-# python
+https://sanusiwasiu.github.io/python/
